@@ -1,12 +1,10 @@
 # Yauheni Kazachenka
 
-<p align="center" style="color:#ff0099">Contact</p>
-
-* Phone Number: +375(44)7893480
-
+* Location: Minsk, Belarus
+* Phone Number: +375(44)789-34-80
 * Email: <ul>
-  <li><a href="mailto:yauheni.kazachenka@gmail.com">yauheni.kazachenka@gmail.com></li>
-  <li><a href="mailto:stalker12345600@gmail.com">stalker12345600@gmail.com></li>
+  <li><a href="mailto:yauheni.kazachenka@gmail.com">yauheni.kazachenka@gmail.com</li>
+  <li><a href="mailto:stalker12345600@gmail.com">stalker12345600@gmail.com</li>
   <li><a href="mailto:zhenya12345@live.com">zhenya12345@live.com</li>
 </ul>
 
