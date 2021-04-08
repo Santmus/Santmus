@@ -1,16 +1,15 @@
-### Hi there 👋
+# Yauheni Kazachenka
 
-<!--
-**Santmus/Santmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="color:#ff0099">Contact</p>
 
-Here are some ideas to get you started:
+* Phone Number: +375(44)7893480
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Email: <ul>
+  <li><a href="mailto:yauheni.kazachenka@gmail.com">yauheni.kazachenka@gmail.com></li>
+  <li><a href="mailto:stalker12345600@gmail.com">stalker12345600@gmail.com></li>
+  <li><a href="mailto:zhenya12345@live.com">zhenya12345@live.com</li>
+</ul>
+
+[![Linkedin: Santmus](https://img.shields.io/badge/-Yauheni%20Kazachenka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yauheni-kazachenka-a2bb07154/)](https://www.linkedin.com/in/yauheni-kazachenka-a2bb07154//)
+
+
