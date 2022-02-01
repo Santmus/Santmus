@@ -41,11 +41,17 @@
 
 ## Projects:
 
+- Desktop Application for find product and display them in application form
+  -
+- Telegram bot for organizing Healthy Lifestyle
+  -
+- Application for search necessary products and write in `.xls` file
+  -
 ## Language Skills:
 
-<b>English:</b> A2+;  
-<b>Belarusian:</b> Native;  
-<b>Russian:</b> Native.
+<b>English:</b> `A2+`;  
+<b>Belarusian:</b> `Native`;  
+<b>Russian:</b> `Native`.
 
 ## Education:
 
