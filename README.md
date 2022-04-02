@@ -12,7 +12,7 @@
 ## Software Development:
 *Programming languages:*
 <ul type="disc">
-  <li><b>Java 15.0.1</b></li>
+  <li><b>Java 17.0.2</b></li>
   <li><b>Python 3.9.1</b></li>
 </ul>
 
@@ -21,22 +21,20 @@
   <li><b>Spring</b></li>
   <li><b>Hibernate</b></li>
   <li><b>Maven</b></li>
+  <li><b>JUnit</b></li>
 </ul>
 
 *Tools and Instruments:*
 <ul type="disc">
-  <li><b>Elastic Search</b></li>
   <li><b>Lombok</b></li>
-  <li><b>RestAPI</b></li>
   <li><b>Git</b></li>
+  <li><b>Knowledge of HTTP-protocol</b></li>
 </ul>
 
 *Databases:*
 <ul type="disc">
   <li><b>MySQL</b></li>
-  <li><b>Apache Cassandra</b></li>
   <li><b>MongoDB</b></li>
-  <li><b>Oracle</b></li>
 </ul>
 
 ## Projects:
@@ -47,6 +45,8 @@
   -
 - Application for search necessary products and write in `.xls` file
   -
+- Informational Intellectual Reference System for Healthy Lifestyle on Ostis technology
+  - 
 ## Language Skills:
 
 <b>English:</b> `A2+`;  
@@ -54,6 +54,8 @@
 <b>Russian:</b> `Native`.
 
 ## Education:
+
+
 
 ## Personal interest:
 
