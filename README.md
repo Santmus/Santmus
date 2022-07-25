@@ -12,7 +12,7 @@
 ## Software Development:
 *Programming languages:*
 <ul type="disc">
-  <li><b>Java 17.0.2</b></li>
+  <li><b>Java 18.0.2</b></li>
   <li><b>Python 3.9.1</b></li>
 </ul>
 
