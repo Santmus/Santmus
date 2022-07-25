@@ -1,13 +1,14 @@
 # Yauheni Kazachenka
 
-* Location: Minsk/Gomel, Belarus;
+* Location: Minsk <-> Gomel, Belarus;
 * Graduate of Belarusian State University of Informatics and Radioelectronics;
+* 2nd stage student of Belarusian State University of Informatics and Radioelectronics;
 * Phone Number: +375 (44) 789-34-80;
 * Email: <ul>
   <li><a href="mailto:yauheni.kazachenka@gmail.com">yauheni.kazachenka@gmail.com</li>
   <li><a href="mailto:stalker12345600@gmail.com">stalker12345600@gmail.com</li>
   <li><a href="mailto:zhenya12345@live.com">zhenya12345@live.com</li>
-</ul>
+  </ul>
 
 ## Software Development:
 *Programming languages:*
