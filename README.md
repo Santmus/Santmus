@@ -38,16 +38,6 @@
   <li><b>MongoDB</b></li>
 </ul>
 
-## Projects:
-
-- Desktop Application for find product and display them in application form
-  -
-- Telegram bot for organizing Healthy Lifestyle
-  -
-- Application for search necessary products and write in `.xls` file
-  -
-- Informational Intellectual Reference System for Healthy Lifestyle on Ostis technology
-  - 
 ## Language Skills:
 
 <b>English:</b> `A2+`;  
@@ -55,8 +45,6 @@
 <b>Russian:</b> `Native`.
 
 ## Education:
-
-
 
 ## Personal interest:
 
