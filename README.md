@@ -16,13 +16,48 @@
 
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yauheni-kazachenka-a2bb07154/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://vk.com/santmus"><img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/></a>
-  <a href="mailto:yauheni.kazachenka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Santmus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://scholar.google.com/citations?user=boTjavkAAAAJ&hl=ru"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-</p>
+<p align="center"><b>🔗 Find me on</b></p>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<a href="https://github.com/Santmus">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="110"/>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://www.linkedin.com/in/yauheni-kazachenka-a2bb07154/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="110"/>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://scholar.google.com/citations?user=boTjavkAAAAJ&hl=ru">
+<img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" width="110"/>
+</a>
+</td>
+<td align="center" width="120">
+<a href="https://vk.com/santmus">
+<img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" width="110"/>
+</a>
+</td>
+<td align="center" width="120">
+<a href="mailto:yauheni.kazachenka@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="110"/>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center"><b>GitHub</b></td>
+<td align="center"><b>LinkedIn</b></td>
+<td align="center"><b>Google Scholar</b></td>
+<td align="center"><b>VK</b></td>
+<td align="center"><b>Email</b></td>
+</tr>
+</table>
+
+</div>
 
 <!-- 关于我 -->
 
