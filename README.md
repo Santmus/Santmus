@@ -9,6 +9,7 @@
   <a href="https://vk.com/santmus"><img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/></a>
   <a href="mailto:yauheni.kazachenka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Santmus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://scholar.google.com/citations?user=boTjavkAAAAJ&hl=ru"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Santmus&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -18,7 +19,7 @@
 ## 🚀 About Me
 
 > 🎓 **Master's degree** in Artificial Intelligence — **[BSUIR](https://en.bsuir.by/)** (Belarusian State University of Informatics and Radioelectronics)
-> 🧪 Currently a **PhD student** (аспирант) — conducting research in AI & computer science
+> 🧪 **PhD student** (аспирант) — specialty **05.13.17 "Theoretical Foundations of Computer Science"** — conducting research in AI & computer science
 > 📍 Based in **Minsk ↔ Gomel, Belarus**
 > 💻 Passionate about **Java Backend Development**, system design & clean architecture
 > 🧠 Research interests: machine learning, neural networks, AI-driven solutions
@@ -31,6 +32,7 @@ public class YauheniKazachenka {
     String uni       = "BSUIR";
     String degree    = "MSc Artificial Intelligence";
     String status    = "PhD Student (аспирант)";
+    String specialty = "05.13.17 — Theoretical Foundations of Computer Science";
     
     String[] languages   = {"Java", "Python", "SQL"};
     String[] frameworks  = {"Spring Boot", "Spring Security",
@@ -219,6 +221,9 @@ public class YauheniKazachenka {
   </a>
   <a href="https://vk.com/santmus">
     <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=boTjavkAAAAJ&hl=ru">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </p>
 
