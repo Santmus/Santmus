@@ -1,8 +1,20 @@
-<!-- 简介标题动画 -->
+<!-- AI анимированный баннер -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,21,21,46&height=300&section=header&text=ARTIFICIAL%20INTELLIGENCE&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Neural%20Networks%20%20%7C%20Machine%20Learning%20%20%7C%20Deep%20Learning&descSize=20&descColor=c9d1d9&descAlignY=60&width=100%" alt="AI Banner"/>
+
+<!-- Аватар по центру -->
+
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/45151493?v=4?s=200" alt="Yauheni Kazachenka" width="180" height="180" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 25px rgba(88,166,255,0.6); margin-top: -120px; position: relative; z-index: 1;"/>
+
+<br/><br/>
 
 <a href="https://github.com/Santmus">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=180&section=header&text=Hey%2C%20I'm%20Yauheni%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Minsk%2C%20Belarus&descSize=18&descColor=c9d1d9&descAlignY=55&width=100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header&text=Hey%2C%20I'm%20Yauheni%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Java%20Backend%20Developer%20%7C%20AI%20Researcher%20%7C%20Minsk%2C%20Belarus&descSize=17&descColor=c9d1d9&descAlignY=65&width=100%" alt="Header"/>
 </a>
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yauheni-kazachenka-a2bb07154/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
