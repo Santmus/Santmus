@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Hey%2C%20I'm%20Yauheni%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20AI%20Researcher%20%7C%20Minsk%2C%20Belarus&descSize=17&descColor=c9d1d9&descAlignY=55&width=100%" alt="Header"/>
 </a>
 
-<img src="https://avatars.githubusercontent.com/u/45151493?v=4?s=400" alt="Yauheni Kazachenka" width="300" height="300" style="border-radius: 50%; border: 5px solid #58a6ff; box-shadow: 0 0 30px rgba(88,166,255,0.6);"/>
+![Yauheni Kazachenka](https://avatars.githubusercontent.com/u/45151493?v=4?s=400)
 
 </div>
 
