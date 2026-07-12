@@ -23,11 +23,6 @@
 <table>
 <tr>
 <td align="center" width="120">
-<a href="https://github.com/Santmus">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="110"/>
-</a>
-</td>
-<td align="center" width="120">
 <a href="https://www.linkedin.com/in/yauheni-kazachenka-a2bb07154/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="110"/>
 </a>
@@ -49,7 +44,6 @@
 </td>
 </tr>
 <tr>
-<td align="center"><b>GitHub</b></td>
 <td align="center"><b>LinkedIn</b></td>
 <td align="center"><b>Google Scholar</b></td>
 <td align="center"><b>VK</b></td>
