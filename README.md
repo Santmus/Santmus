@@ -18,8 +18,6 @@
   <a href="https://scholar.google.com/citations?user=boTjavkAAAAJ&hl=ru"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Santmus&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 <!-- 关于我 -->
 
 ## 🚀 About Me
@@ -261,7 +259,5 @@ public class YauheniKazachenka {
 <i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House
 
 <br/><br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Santmus.Santmus" alt="Visitor Badge"/>
 
 </div>
