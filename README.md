@@ -16,7 +16,7 @@
 
 </div>
 
-<p align="center"><b>🔗 Find me on</b></p>
+<h2 align="center">🔗 Find me on</h2>
 
 <div align="center">
 
