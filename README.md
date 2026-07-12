@@ -34,7 +34,7 @@
 > 🧪 **PhD student** (аспирант) — specialty **05.13.17 "Theoretical Foundations of Computer Science"** — conducting research in AI & computer science
 > 📍 Based in **Minsk ↔ Gomel, Belarus**
 > 💻 Passionate about **Java Backend Development**, system design & clean architecture
-> 🧠 Research interests: machine learning, neural networks, AI-driven solutions
+> 🧠 Research interests: intelligent systems, multi-agent systems, ontological modeling, knowledge graphs & semantic networks
 
 ```java
 public class YauheniKazachenka {
@@ -50,10 +50,11 @@ public class YauheniKazachenka {
     String[] frameworks  = {"Spring Boot", "Spring Security",
                            "Hibernate", "JPA", "Maven", "JUnit"};
     String[] databases   = {"MySQL", "PostgreSQL", "MongoDB", "Redis"};
-    String[] research    = {"Machine Learning", "Neural Networks",
-                           "AI-Driven Solutions"};
+    String[] research    = {"Intelligent Systems", "Multi-Agent Systems",
+                           "Ontological Modeling", "Knowledge Graphs",
+                           "Semantic Networks"};
     String[] tools       = {"Git", "IntelliJ IDEA", "Postman",
-                           "Docker", "Linux"};
+                           "Docker", "Linux", "OSTIS", "LaTeX"};
     
     boolean coffee      = true;
     boolean learning    = true; // always
@@ -156,6 +157,21 @@ public class YauheniKazachenka {
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🧠 Knowledge & Semantic Technologies</b></summary>
+<br>
+
+![OSTIS](https://img.shields.io/badge/OSTIS-58a6ff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM1OGE2ZmYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiIvPjxsaW5lIHgxPSIxMiIgeTE9IjIiIHgyPSIxMiIgeTI9IjIyIi8+PC9zdmc+&logoColor=white)
+![SCs Language](https://img.shields.io/badge/SCs_Language-FF6B6B?style=flat-square)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-9B59B6?style=flat-square)
+![Semantic Networks](https://img.shields.io/badge/Semantic_Networks-1ABC9C?style=flat-square)
+![Ontology Modeling](https://img.shields.io/badge/Ontology_Modeling-E74C3C?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi_Agent_Systems-3498DB?style=flat-square)
+![Intelligent Agents](https://img.shields.io/badge/Intelligent_Agents-2ECC71?style=flat-square)
 
 </details>
 
@@ -201,10 +217,11 @@ public class YauheniKazachenka {
 - Learning new technologies
 
 ### 🔬 Research & Science
-- 🧠 Machine Learning & Neural Networks
-- 📄 Publishing scientific papers
-- 🎓 PhD studies in AI
-- 📊 Data analysis & experiments
+- 🧠 Intelligent systems & multi-agent systems
+- 🕸 Ontological modeling & knowledge graphs
+- 📊 Semantic networks & knowledge processing
+- 🤖 Intelligent agents & distributed knowledge systems
+- 📄 Scientific publications & LaTeX
 
 </td>
 <td width="50%" valign="top">
