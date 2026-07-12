@@ -17,27 +17,33 @@
 
 ## 🚀 About Me
 
-> 🎓 Graduate of **[BSUIR](https://en.bsuir.by/)** (Belarusian State University of Informatics and Radioelectronics)
+> 🎓 **Master's degree** in Artificial Intelligence — **[BSUIR](https://en.bsuir.by/)** (Belarusian State University of Informatics and Radioelectronics)
+> 🧪 Currently a **PhD student** (аспирант) — conducting research in AI & computer science
 > 📍 Based in **Minsk ↔ Gomel, Belarus**
 > 💻 Passionate about **Java Backend Development**, system design & clean architecture
-> 🌱 Currently exploring **Spring Boot**, **Microservices**, and **Design Patterns**
+> 🧠 Research interests: machine learning, neural networks, AI-driven solutions
 
 ```java
 public class YauheniKazachenka {
-    String name    = "Yauheni Kazachenka";
-    String role    = "Java Backend Developer";
-    String city    = "Minsk, Belarus";
-    String uni     = "BSUIR";
+    String name      = "Yauheni Kazachenka";
+    String role      = "Java Backend Developer";
+    String city      = "Minsk, Belarus";
+    String uni       = "BSUIR";
+    String degree    = "MSc Artificial Intelligence";
+    String status    = "PhD Student (аспирант)";
     
-    String[] languages = {"Java", "Python", "SQL"};
-    String[] frameworks = {"Spring Boot", "Spring Security",
-                          "Hibernate", "JPA", "Maven", "JUnit"};
-    String[] databases  = {"MySQL", "PostgreSQL", "MongoDB", "Redis"};
-    String[] tools      = {"Git", "IntelliJ IDEA", "Postman",
-                          "Docker", "Linux"};
+    String[] languages   = {"Java", "Python", "SQL"};
+    String[] frameworks  = {"Spring Boot", "Spring Security",
+                           "Hibernate", "JPA", "Maven", "JUnit"};
+    String[] databases   = {"MySQL", "PostgreSQL", "MongoDB", "Redis"};
+    String[] research    = {"Machine Learning", "Neural Networks",
+                           "AI-Driven Solutions"};
+    String[] tools       = {"Git", "IntelliJ IDEA", "Postman",
+                           "Docker", "Linux"};
     
-    boolean coffee     = true;
-    boolean learning   = true; // always
+    boolean coffee      = true;
+    boolean learning    = true; // always
+    boolean doingScience = true;
 }
 ```
 
@@ -85,7 +91,7 @@ public class YauheniKazachenka {
 </details>
 
 <details>
-<summary><b>🐍 Python</b></summary>
+<summary><b>🐍 Python & AI</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -96,6 +102,12 @@ public class YauheniKazachenka {
 ![pip](https://img.shields.io/badge/pip-3775A9?style=flat-square&logo=pypi&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 
 </details>
 
@@ -135,25 +147,6 @@ public class YauheniKazachenka {
 
 <!-- GitHub 统计 -->
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Santmus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santmus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Santmus&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=555555" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santmus&bg_color=0D1117&color=58a6ff&line=c9d1d9&point=58a6ff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santmus&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
-</p>
-
 <!-- 技能进度 -->
 
 ## 📈 Skills Progress
@@ -192,6 +185,12 @@ public class YauheniKazachenka {
 - Database design & optimization
 - Open source contribution
 - Learning new technologies
+
+### 🔬 Research & Science
+- 🧠 Machine Learning & Neural Networks
+- 📄 Publishing scientific papers
+- 🎓 PhD studies in AI
+- 📊 Data analysis & experiments
 
 </td>
 <td width="50%" valign="top">
