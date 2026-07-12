@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=header&text=Hey%2C%20I'm%20Yauheni%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20AI%20Researcher%20%7C%20Minsk%2C%20Belarus&descSize=17&descColor=c9d1d9&descAlignY=55&width=100%" alt="Header"/>
 </a>
 
-<a href="https://github.com/Santmus"><img src="https://raw.githubusercontent.com/Santmus/Santmus/main/assets/avatar.png" width="250" alt="Yauheni"/></a>
+<a href="https://github.com/Santmus"><img src="https://raw.githubusercontent.com/Santmus/Santmus/main/assets/avatar.png" width="320" alt="Yauheni"/></a>
 
 </div>
 
