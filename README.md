@@ -70,7 +70,7 @@ public class YauheniKazachenka {
     String city      = "Minsk, Belarus";
     String uni       = "BSUIR";
     String degree    = "MSc Artificial Intelligence";
-    String status    = "PhD Student (аспирант)";
+    String status    = "PhD Student";
     String specialty = "05.13.17 — Theoretical Foundations of Computer Science";
     
     String[] languages   = {"Java", "Python", "SQL"};
